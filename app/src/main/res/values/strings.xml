@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"><b>String Resource</b></string>
+    <string name="welcome">Welcome to <b>Android</b>!</string>
+    <string name="message">Hello, %1$s! How are you doing?</string>
+    <string name="welcome_messages">Hello, %1$s! You have %2$d new messages.&lt;i>%3$s&lt;/i>.</string>
+
+
+
+<!--    <string name="strike"><br>\'How are you doing?'\</br> </string>-->
+    <string name="welcome_messages2">Hello, %1$s! You have &lt;b>%2$d new messages&lt;/b>.</string>
+
+
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">Znaleziono %d piosenkę.</item>
+        <item quantity="two">Anil %d piosenkę.</item>
+        <item quantity="few">Znaleziono %d piosenki.</item>
+        <item quantity="other">Znaleziono %d piosenek.</item>
+    </plurals>
+
+    <string name="expandable_text">We Sanchhaya Education Pvt. Ltd., are registered and headquartered
+        at BC 227, 2nd Floor, Matrix Business Tower, B4, Sector 132, Noida, UP-201301, hereinafter
+        referred to as GeeksforGeeks. We also offer paid Courses managed by Sanchhaya Classes Pvt. Ltd.
+        with registered office address B-142, Vishwash Park, Uttam Nagar, New Delhi, North Delhi, Delhi, India, 110059.
+        At GeeksforGeeks, we value your trust and  respect your privacy. This privacy statement (“Privacy Statement”)
+        applies to the treatment of personally identifiable information submitted by, or otherwise obtained from,
+        you in connection with the associated application (“Application”). The Application is
+        provided by GeeksforGeeks (and may be provided by Geeksforgeeks on behalf
+        of a GeeksforGeeks licensor or partner (“Application Partner”).
+        By using or otherwise accessing the Application, you acknowledge that you accept the practices
+        and policies outlined in this Privacy Statement.</string>
+</resources>
